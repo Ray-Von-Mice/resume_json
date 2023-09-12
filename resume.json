@@ -1,0 +1,122 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Siyuan \"Ray\" Zhang",
+    "label": "QA/Software Developer in Test",
+    "email": "rayzvondrake@gmail.com",
+    "phone": "18602688540",
+    "location": {
+      "address": "3-1-501 Shenlan Flat, Nankai District",
+      "postalCode": "300193",
+      "city": "Tianjin",
+      "countryCode": "China",
+      "region": "Tianjin"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Ray Zhang",
+        "url": "https://www.linkedin.com/in/siyuan-ray-zhang/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "website": "https://www.casa-systems.com/",
+      "name": "Casa Systems",
+      "location": "Andover, MA",
+      "description": "Telecommunication Company",
+      "position": "Senior QA Engineer",
+      "startDate": "2020-06-01",
+      "endDate": "2023-06-30",
+      "highlights": [
+        "Configured and deployed LTE-only, 4G/5G NSA, and SA femtos onto QA/Lab sites.",
+        "Verified functionalities and the performance of femtos with various user equipment through Vysor, Iperf, and signal attenuator.",
+        "Developed Python3 programs using paramiko to establish a connection through a routing host, and download compressed system report from Production units.",
+        "Developed Python3 programs using Panda and Numpy to retrieve and analyze specific data, generating a concise view of units’ functionality and performance and replacing the original manual procedure.",
+        "Developed and automated Web Application regression test cases and smoke tests using Selenium in Python3.",
+        "Deployed, maintained, and created cloud sources on Linux servers. Launched docker (VM) or KVM-packed services, deployed products on them, and maintained VM and their host servers for optimal performance.",
+        "Conducted backend tests and verified integrated Pulsar service.",
+        "Applied configurations based on requirements and verified service using Linux CLI and Wireshark in Windows, resulting in improved quality and increased efficiency."
+      ]
+    },
+    {
+      "website": "https://nltd.com/",
+      "name": "Northern Lights Technology Development",
+      "location": "Tianjin, China",
+      "description": "Software Development Company",
+      "position": "QA Engineer",
+      "startDate": "2013-08-01",
+      "endDate": "2017-08-04",
+      "highlights": [
+        "Developed comprehensive test plans and test cases for B2C websites and software, ensuring functionality, performance, and security.",
+        "Developed C# Selenium WebDriver automation test script to streamline website workflow testing and improve accuracy and efficiency.",
+        "Prepared comprehensive test data based on requirements using SQL queries and JSON/XML composition.",
+        "Identified and resolved web application issues by studying applications and errors with browser developer tools, and working closely with developers to verify fixes and new features."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of New Hampshire",
+      "url": "https://www.unh.edu/",
+      "degree": "MSc in Computer Science",
+      "startDate": "2017-08-29",
+      "endDate": "2020-05-26",
+      "GPA": "3.6"
+    },
+    {
+      "institution": "Huaqiao University",
+      "url": "https://en.hqu.edu.cn",
+      "degree": "Bachalor in Communication Engineering",
+      "startDate": "2007-09-16",
+      "endDate": "2011-06-25",
+      "GPA": "3.2"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming language",
+      "keywords": [
+        "Python",
+        "C++"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent IELTS - General Purpose (L:8.5 R:8.5 W:7 S:7)"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Bioinformatics Genome Alignment",
+      "description": "A acadamic study of Genome sequence and various Bioinformatic tools such as Kraken and Kaiju",
+      "highlights": [
+        "Developed bash scripts for automation testing of Bioinformatic tools - Kraken and Kaiju with raw biodata from NCBI as a software developer in a team of biological students.",
+        "Developed Python3 script to parse and process raw data, and created a database using SQLite 3.11, so that the processed data could be imported for the project. Integrated shell automation results with Python3 program to retrieve processed data from SQLite 3.11 database for comparison experiments."
+      ],
+      "keywords": [
+        "Bash",
+        "Python3",
+        "SQLite"
+      ],
+      "startDate": "2019-02-24",
+      "endDate": "2019-05-26",
+      "roles": [
+        "Software Developer"
+      ],
+      "type": "script and database"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
