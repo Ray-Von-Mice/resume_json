@@ -6,7 +6,7 @@
     "email": "rayzvondrake@gmail.com",
     "phone": "18602688540",
     "location": {
-      "address": "3-1-501 Shenlan Flat, Nankai District",
+      "address": "Shenlan Flat, Nankai District",
       "postalCode": "300193",
       "city": "Tianjin",
       "countryCode": "China",
@@ -96,7 +96,7 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Fluent IELTS - General Purpose (L:8.5 R:8.5 W:7 S:7)"
+      "fluency": "Fluent"
     },
     {
       "language": "Chinese",
@@ -106,7 +106,7 @@
   "projects": [
     {
       "name": "Bioinformatics Genome Alignment",
-      "description": "A acadamic study of Genome sequence and various Bioinformatic tools such as Kraken and Kaiju",
+      "description": "An acadamic study of Genome sequence and various Bioinformatic tools such as Kraken and Kaiju",
       "highlights": [
         "Developed bash scripts for automation testing of Bioinformatic tools - Kraken and Kaiju with raw biodata from NCBI as a software developer in a team of biological students.",
         "Developed Python3 script to parse and process raw data, and created a database using SQLite 3.11, so that the processed data could be imported for the project. Integrated shell automation results with Python3 program to retrieve processed data from SQLite 3.11 database for comparison experiments."
