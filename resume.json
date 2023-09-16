@@ -60,7 +60,8 @@
     {
       "institution": "University of New Hampshire",
       "url": "https://www.unh.edu/",
-      "degree": "MSc in Computer Science",
+      "area": "Computer Science",
+      "studyType": "MSc (Master of Science)",
       "startDate": "2017-08-29",
       "endDate": "2020-05-26",
       "GPA": "3.6"
@@ -68,7 +69,8 @@
     {
       "institution": "Huaqiao University",
       "url": "https://en.hqu.edu.cn",
-      "degree": "Bachalor in Communication Engineering",
+      "area": "Communication Engineering",
+      "studyType": "BEng (Bachelor of Engineering)",
       "startDate": "2007-09-16",
       "endDate": "2011-06-25",
       "GPA": "3.2"
@@ -80,6 +82,14 @@
       "keywords": [
         "Python",
         "C++"
+      ]
+    },
+    {
+      "name": "Development\\QA tools",
+      "keywords": [
+        "Linux cli tools",
+        "SQL",
+        "Wireshark"
       ]
     }
   ],
